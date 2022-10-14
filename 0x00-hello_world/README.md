@@ -1,1 +1,1 @@
-creates a script that runs a C file
+write a script that creates a C file bit does not link
