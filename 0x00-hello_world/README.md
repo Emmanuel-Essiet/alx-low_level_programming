@@ -1,1 +1,1 @@
-write a script that creates a C file bit does not link
+i wrote a script that generates the assembly code of C and saves it in an oupt file
