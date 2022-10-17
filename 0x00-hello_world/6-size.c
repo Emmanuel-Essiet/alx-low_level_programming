@@ -4,7 +4,7 @@
 *main - this is the main function
 *Description:this is the entry point of the program
 *
-*Return:return 0 if successful.
+*Return:return 0 if successful, Non-zero if errors.
 */
 int main(void)
 {
