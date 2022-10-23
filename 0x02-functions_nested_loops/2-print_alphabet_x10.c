@@ -1,9 +1,9 @@
 #include "main.h"
-/*
-*print_alphabet_x10 - prints alphabets in lower case x10
+/**
+*print_alphabet_x10  -  entry point
 */
 
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int count = 0;
 	char letter;
