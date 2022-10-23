@@ -1,0 +1,53 @@
+bdulazeez224
+/
+alx-low_level_programming
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+ master 
+alx-low_level_programming/0x02-functions_nested_loops/2-print_alphabet_x10.c
+
+Abdulazeez224 task 1
+ 1 contributor
+21 lines (18 sloc)  235 Bytes
+#include "main.h"
+/**
+  * print_alphabet_x10 - Entry point
+  */
+
+void print_alphabet_x10(void)
+{
+	int a;
+
+	int count = 0;
+
+	while (count < 10)
+	{
+		for (a = 'a'; a <= 'z'; a++)
+		{
+			_putchar(a);
+		}
+		count++;
+		_putchar('\n');
+	}
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+alx-low_level_programming/2-print_alphabet_x10.c at master · Abdulazeez224/alx-low_leve
